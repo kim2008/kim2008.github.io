@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
-subtitle:
-description: wublub dubda
-author: Logos
+title: kim
+subtitle: MyBlog
+description: 用这个东西太麻烦
+author: kim
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
