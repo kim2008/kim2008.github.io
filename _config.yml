@@ -237,7 +237,11 @@ social_icons:
 
 # Sidebar Avatar
 in directory: 
+<<<<<<< HEAD
 avatar: assets/images/j2.jpg
+=======
+avatar: assets/images/j1.JPG
+>>>>>>> 7da237a9c58ce0e007e41719bbae2f71dbc8b70f
 
 
 # Table Of Contents in the Sidebar
